@@ -1,0 +1,15 @@
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/bin/Debug/net7.0/guessing-game
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/bin/Debug/net7.0/guessing-game.deps.json
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/bin/Debug/net7.0/guessing-game.runtimeconfig.json
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/bin/Debug/net7.0/guessing-game.dll
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/bin/Debug/net7.0/guessing-game.pdb
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.csproj.AssemblyReference.cache
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfoInputs.cache
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.AssemblyInfo.cs
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.csproj.CoreCompileInputs.cache
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.dll
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/refint/guessing-game.dll
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.pdb
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/guessing-game.genruntimeconfig.cache
+/Users/cyraiftikhar/Projects/guessing-game/guessing-game/obj/Debug/net7.0/ref/guessing-game.dll
