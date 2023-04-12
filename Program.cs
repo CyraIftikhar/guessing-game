@@ -17,7 +17,7 @@ while (guess.ToLower() != secretWord.ToLower() && !outOfGuesses)
         int numMatches = 0;
         for (int i = 0; i < guess.Length && i < secretWord.Length; i++)
         {
-            if (guess[i] == secretWord[i] || guess[i] == secretWord[i].ToString().ToLower() || guess[i] == secretWord[i].ToString().ToUpper())
+            if (guess[i].ToString().ToLower() == secretWord[i].ToString().ToLower())
             {
                 numMatches++;
             }
@@ -57,5 +57,4 @@ else
 }
 
 Console.ReadLine();
-
 
