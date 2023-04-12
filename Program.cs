@@ -12,7 +12,6 @@ while (guess != secretWord && !outOfGuesses)
         guess = Console.ReadLine();
         guessCount++;
 
-      
         int numMatches = 0;
         for (int i = 0; i < guess.Length && i < secretWord.Length; i++)
         {
@@ -21,7 +20,6 @@ while (guess != secretWord && !outOfGuesses)
                 numMatches++;
             }
         }
-
 
         if (numMatches == secretWord.Length)
         {
@@ -34,6 +32,11 @@ while (guess != secretWord && !outOfGuesses)
         else
         {
             Console.WriteLine("Incorrect guess. Try again.");
+        }
+
+        if (guessCount == 3)
+        {
+            Console.WriteLine("Hint: The first letter of the secret word is {0}.", secretWord[0]);
         }
     }
     else
@@ -52,5 +55,6 @@ else
 }
 
 Console.ReadLine();
+
 
 
